@@ -30,7 +30,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk)
 
 ### Backend and data
 
