@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Mark Bilous 👋</h1>
 
 <p align="center">
-  Backend and Full Stack Developer based in Leipzig, Germany
+  BackEnd Developer based in Leipzig, Germany
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bilous-mark/">LinkedIn</a> •
   <a href="https://github.com/twenntty">GitHub</a> •
-  <a href="https://quickpost.online">QuickPost</a>
 </p>
 
 <p align="center">
