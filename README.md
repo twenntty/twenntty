@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bilous-mark/">LinkedIn</a> •
-  <a href="https://github.com/twenntty">GitHub</a> •
+  <a href="https://github.com/twenntty">GitHub</a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## About me
 
-- Backend and Full Stack Developer focused on Node.js, React, MongoDB, and Python
+- Backend Developer focused on Node.js, React, MongoDB, and Python
 - Building Telegram Mini Apps, bots, REST APIs, and automation tools
 - Developed an internal CRM for project and workforce management
 - Created SchedGO, an open-source academic scheduling platform and bachelor's capstone project
