@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mark Bilous 👋</h1>
 
 <p align="center">
-  BackEnd Developer based in Leipzig, Germany
+  Backend Developer based in Leipzig, Germany
 </p>
 
 <p align="center">
@@ -11,17 +11,17 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=twenntty&theme=dark&hide_border=true&border_radius=8" alt="Mark Bilous's GitHub contribution streak" />
+    <img src="https://streak-stats.demolab.com?user=twenntty&theme=dark&hide_border=true&border_radius=8&v=2" alt="Mark Bilous's GitHub contribution streak" />
   </a>
 </p>
 
 ## About me
 
-- Backend Developer focused on Node.js, React, MongoDB, and Python
+- Backend Developer focused on Node.js, Express, MongoDB, Supabase, and Python
 - Building Telegram Mini Apps, bots, REST APIs, and automation tools
 - Developed an internal CRM for project and workforce management
 - Created SchedGO, an open-source academic scheduling platform and bachelor's capstone project
-- Currently developing QuickPost, a Telegram broadcasting and subscription-management platform
+- Currently developing QuickPost, a Telegram broadcasting and subscription management platform
 
 ## Tech stack
 
@@ -53,15 +53,15 @@
 
 A Telegram automation platform for scheduled message broadcasting, account authorization through the Telegram API, subscription management, and protected API routes.
 
-- Automated subscription-status checks with scheduled background jobs
-- Secure account authorization and access to protected routes
-- Telegram API integration for account authentication
+- Automated subscription status checks with scheduled background jobs
+- Secured account authorization and access to protected routes
+- Integrated the Telegram API for account authentication
 
 [Visit QuickPost](https://quickpost.online)
 
 ### SchedGO
 
-An open-source academic scheduling platform created as my bachelor's capstone project. The project addresses the lack of a unified timetable system for Ukrainian educational institutions and is based on research into multiple timetable-generation methods.
+An open-source academic scheduling platform created as my bachelor's capstone project. The project addresses the lack of a unified timetable system for Ukrainian educational institutions and is based on research into multiple timetable generation methods.
 
 - [Backend API](https://github.com/twenntty/schedule-api)
 - [Frontend application](https://github.com/twenntty/schedule-site)
